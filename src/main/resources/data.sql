@@ -1,0 +1,1 @@
+INSERT INTO member (name) VALUES ('member1'), ('member2'), ('member3')
